@@ -35,6 +35,8 @@ By default, the JSDoc way would be activated, which will work by:
 1. parse all style files with PostCSS, which can handle different syntax's.
 2. parse all JSDoc comments with doctrine, to more easily work with them.
 
+> Or we can use the parse of SassDoc, which has some nice extra features.
+
 ### Transform to ViewModels
 
 The info gathered from the sources has to be converted/transformed into object

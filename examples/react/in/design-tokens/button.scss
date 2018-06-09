@@ -1,0 +1,16 @@
+/// Primary brand color
+/// @type Color
+$primary: yellow;
+
+/// Main text color
+/// @type Color
+$text-color: red;
+
+/// Other text color
+/// @type Color
+$other-text-color: $text-color;
+
+.button {
+  background: $primary;
+  color: $text-color;
+}

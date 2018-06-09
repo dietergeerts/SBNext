@@ -15,7 +15,9 @@
   },
   "devDependencies": {
     "@sb/cli": "1.0.0",
-    "@sb/renderer-react": "^1.0.0"
+    "@sb/renderer-react": "^1.0.0",
+    "sassdoc": "^2.5.0",
+    "sassdoc-loader": "0.0.2"
   },
   "peerDependencies": {},
   "engines": {
